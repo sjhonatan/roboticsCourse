@@ -1,1 +1,1 @@
-![All text](roboticsCourse/images/turtlebot.png?raw=true "Turtle Bot")
+![All text](https://github.com/sjhonatan/roboticsCourse/blob/master/images/turtlebot.png)
